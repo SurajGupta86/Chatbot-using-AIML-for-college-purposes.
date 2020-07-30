@@ -5,11 +5,11 @@ Chatbots are programs that mimic human conversation using Artiﬁcial Intelligen
 It is an interactive interface which provides the conversion between the human and the system.
 
 About AIML: 
-AIML stands for Artificial Intelligence Markup Language. 
-AIML was developed by the Alicebot free software community and Dr Richard S. Wallace during 1995–2000. 
+AIML stands for Artificial Intelligence Markup Language. AIML was developed by the Alicebot free software community and Dr Richard S. Wallace during 1995–2000. 
 AIML is used to create or customize Alicebot which is a chat-box application based on A.L.I.C.E. (Artificial Linguistic Internet Computer Entity) free software.
              
 Steps in building an AIML rule-based chatbot:
+
 1)Install AIML modules.
 
 2)Create a standard startup file.
