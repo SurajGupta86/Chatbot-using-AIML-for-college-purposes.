@@ -14,8 +14,8 @@ About the project:
 
 In this project, chatbot is used for providing interactive conversion between college and the particular user who wants to get the details related to college. Using Chatbot for college purposes will also help the student to get information related to important notices such as exam schedules, results, etc. The students do not have to go physically college for any enquiry purposes which will save the time as well as travelling cost. The user can get to know any information related to college just by asking questions to the chatbot and it will respond it to the user effectively.
  
-
-             
+ 
+ 
 Steps in building an AIML based chatbot:
 
 1)Install AIML modules.
@@ -29,13 +29,15 @@ Steps in building an AIML based chatbot:
 5)Write a python program with brain module for faster response.
 
 
+
 Installing AIML modules:
 
-  For python 2
+  For python 2:
         pip install aiml
         
-  For python 3
+  For python 3:
         pip install python-aiml
                  OR
         pip3 install python-aiml
 
+NOTE: The chatbot is able to provide answers related to pattern based  provided by the aiml files.But,if the user want the answer related to something which is not included on aiml files then it will show the WARNING: No match found for input.
