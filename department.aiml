@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+<!-- basic_chat.aiml -->
+
+<meta name="language" content="en"/>
+    <category>
+    <pattern>ONE TIME I *</pattern>
+    <template>
+        <random>
+            <li>Go on.</li>
+            <li>How old are you?</li>
+            <li>Be more specific.</li>
+            <li>I did not know that.</li>
+            <li>Are you telling the truth?</li>
+            <li>I don't know what that means.</li>
+            <li>Try to tell me that another way.</li>
+            <li>Are you talking about an animal, vegetable or mineral?</li>
+            <li>What is it?</li>
+        </random>
+    </template>
+</category>
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Well, hello!
+        </template>
+    </category>
+    
+    <category>
+        <pattern>HOW ARE YOU</pattern>
+        <template>
+            I'm a bot, silly!
+        </template>
+    </category>
+
+    <category>
+        <pattern>SURAJ</pattern>
+        <template>
+            Yes
+        </template>
+    </category>
+
+<!-- Computer -->
+    <category>
+        <pattern>COMPUTER DEPARTMENT</pattern>
+        <template>
+            Computer Science course is here
+		Link: http://mctrgit.ac.in/ComputerEngineering.php	 
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMPUTER SCIENCE</pattern>
+        <template>
+            Computer Science course is here
+		Link: http://mctrgit.ac.in/ComputerEngineering.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMPUTER SCIENCE DETAILS</pattern>
+        <template>
+             Details Of Students is here
+		Link: http://mctrgit.ac.in/Students_comp.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMPUTER SCIENCE INDUSTRY INTERACTION</pattern>
+        <template>
+            Industry experience is here
+		Link: http://mctrgit.ac.in/Industry%20Interaction(COMP).pdf
+        </template>
+    </category>
+
+<!-- IT -->
+    <category>
+        <pattern>IT DEPARTMENT</pattern>
+        <template>
+            IT course is here: http://mctrgit.ac.in/InformationTechnology.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>IT COURSE</pattern>
+        <template>
+            IT course is here: http://mctrgit.ac.in/InformationTechnology.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>IT DETAILS</pattern>
+        <template>
+            Details Of IT students: http://mctrgit.ac.in/Students_IT.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>IT Industry</pattern>
+        <template>
+            Industry Interaction: http://mctrgit.ac.in/Students_IT.php
+        </template>
+    </category>
+
+<!-- Electronics -->
+    <category>
+        <pattern>ELECTRONICS and TEL SEM1</pattern>
+        <template>
+            Electronics and TEL course is here: http://mctrgit.ac.in/extc.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>EXTC</pattern>
+        <template>
+            Electronics and TEL course is here: http://mctrgit.ac.in/extc.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>EXTC Details</pattern>
+        <template>
+            Details Of Student: http://mctrgit.ac.in/Students_extc.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>EXTC Industry</pattern>
+        <template>
+            Industry Interaction: http://mctrgit.ac.in/Industry_Interaction_extc.php
+        </template>
+    </category>
+
+<!-- Electrical -->
+    <category>
+        <pattern>INSTRUMENTATION</pattern>
+        <template>
+            Instrumentation course is here: http://mctrgit.ac.in/instrumentation.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>INSTRU</pattern>
+        <template>
+             Instrumentation course is here: http://mctrgit.ac.in/instrumentation.php
+ 
+        </template>
+    </category>
+
+    <category>
+        <pattern>INSTRU DETAILS</pattern>
+        <template>
+            Details Of Students: 
+             Link:Instrumentation course is here: http://mctrgit.ac.in/instrumentation.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>INSTRU INDUSTRY</pattern>
+        <template>
+            Instru Industrial Interaction: 
+	   Link: http://mctrgit.ac.in/Industry_Interaction_instr.php
+        </template>
+    </category>
+
+<!-- Mechanical -->
+    <category>
+        <pattern>MECHANICAL </pattern>
+        <template>
+            Mechanical course is here
+             Link: http://mctrgit.ac.in/mechanical.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>MECH</pattern>
+        <template>
+             Mechanical course is here
+               Link:http://mctrgit.ac.in/mechanical.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>MECHANICAL DETAILS</pattern>
+        <template>
+            Details Of Students
+		Link: http://mctrgit.ac.in/Students_mech.php
+        </template>
+    </category>
+
+    <category>
+        <pattern>MECHANICAL INDUSTRY</pattern>
+        <template>
+            Mechanical Industry Interaction
+		Link: http://mctrgit.ac.in/Industry%20Interaction_2019.pdf
+        </template>
+    </category>
+    
+</aiml>

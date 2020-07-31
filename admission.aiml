@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+
+<category>
+     <pattern>UNDERTAKING COLLEGE ADMISSIONS</pattern>
+     <template>
+		<random>
+			<li>Click on this link to view the undertaking College Admissions :  http://www.mctrgit.ac.in/admissions.php</li>
+			<li>Please goto this link to view the undertaking by College Admissions :  http://www.mctrgit.ac.in/admissions.php</li>
+			<li>Have a look over here to view the undertaking by College Admissions :  http://www.mctrgit.ac.in/admissions.php</li>
+      		</random>
+      </template>
+</category>
+<category>
+      <pattern> ADMISSIONS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details of Dean Admissions :  http://www.mctrgit.ac.in/admissions.php</li>
+			<li>Please goto this link to view the details of Dean Admissions :  http://www.mctrgit.ac.in/admissions.php</li>
+			<li>Have a look over here to view the details of Dean Admissions :  http://www.mctrgit.ac.in/admissions.php</li>
+		</random>
+	  </template>
+</category>
+<category>
+      <pattern>NRI</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details of NRI Admission Procedure : http://mctrgit.ac.in/nri-admissions.org/</li>
+			<li>Please goto this link to view the details of NRI Admission Procedure : http://mctrgit.ac.in/nri-admissions.org/</li>
+			<li>Have a look over here to view the details of NRI Admission Procedure : http://mctrgit.ac.in/nri-admissions.org/</li>
+		</random>
+	  </template>
+</category>
+<category>
+      <pattern>FIRST YEAR BE ADMISSIONS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the guidelines of First Year BE Admissions :http://mctrgit.ac.in/Admission_Notification_2019-20.pdf</li>
+			<li>Please goto this link to view the guidelines of First Year BE Admissions : http://mctrgit.ac.in/Admission_Notification_2019-20.pdf</li>
+			<li>Have a look over here to view the guidelines of First Year BE Admissions : http://mctrgit.ac.in/Admission_Notification_2019-20.pdf</li>
+		</random>
+	  </template>
+</category>
+	
+<category>
+      <pattern>ELIGIBILITY ADMISSION FIRST YEAR BE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the eligibility criteria to First Year BE Admissions : http://mctrgit.ac.in/Admissions/First-Year.php</li>
+			<li>Please goto this link to view the eligibility criteria to First Year BE Admissions : http://mctrgit.ac.in/Admissions/First-Year.php</li>
+			<li>Have a look over here to view the eligibility criteria to First Year BE Admissions : http://mctrgit.ac.in/Admissions/First-Year.php</li>
+		</random>
+	  </template>
+</category>
+<category>
+      <pattern>DOCUMENTS ADMISSION FIRST YEAR BE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the documents required for  First Year BE Admissions : http://mctrgit.ac.in/Admission_Notification_2019-20.pdf</li>
+			<li>Please goto this link to view the documents required for First Year BE Admissions : http://mctrgit.ac.in/Admission_Notification_2019-20.pdf</li>
+			<li>Have a look over here to view the documents required for First Year BE Admissions : http://mctrgit.ac.in/Admission_Notification_2019-20.pdf</li>
+		</random>
+	  </template>
+</category>
+	
+<category>
+      <pattern>FEE STRUCTURE FIRST YEAR BE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for  First Year BE Admissions : http://mctrgit.ac.in/FE_Admission_Notice_2019.pdf</li>
+			<li>Please goto this link to view the fee structure required for First Year BE Admissions : http://mctrgit.ac.in/FE_Admission_Notice_2019.pdf</li>
+			<li>Have a look over here to view the fee structure for First Year BE Admissions : http://mctrgit.ac.in/FE_Admission_Notice_2019.pdf</li>
+		</random>
+	  </template>
+</category>
+
+<category>
+      <pattern>ELIGIBILITY ADMISSION DIRECT SECOND YEAR BE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the eligibility criteria to Direct Second Year BE Admissions : http://mctrgit.ac.in/Admissions/Direct2ndYearBE.php</li>
+			<li>Please goto this link to view the eligibility criteria to Direct Second Year BE Admissions : http://mctrgit.ac.in/Admissions/Direct2ndYearBE.php</li>
+			<li>Have a look over here to view the eligibility criteria to Direct Second Year BE Admissions : http://mctrgit.ac.in/Admissions/Direct2ndYearBE.php</li>
+		</random>
+	  </template>
+</category>
+	
+<category>
+      <pattern>DOCUMENTS ADMISSION DIRECT SECOND YEAR BE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the documents required for  Direct Second Year BE Admissions : http://mctrgit.ac.in/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Please goto this link to view the documents required for Direct Second Year BE Admissions : http://mctrgit.ac.in/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Have a look over here to view the documents required for Direct Second Year BE Admissions : http://mctrgit.ac.in/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+		</random>
+	  </template>
+</category>
+	
+<category>
+      <pattern>FEE STRUCTURE DIRECT SECOND YEAR BE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for  Direct Second Year BE Admissions : http://mctrgit.ac.in/SE%20Direct%20Admission%202019-20.pdf</li>
+			<li>Please goto this link to view the fee structure required for Direct Second Year BE Admissions : http://mctrgit.ac.in/SE%20Direct%20Admission%202019-20.pdf</li>
+			<li>Have a look over here to view the fee structure for Direct Second Year BE Admissions : http://mctrgit.ac.in/SE%20Direct%20Admission%202019-20.pdf</li>
+		</random>
+	  </template>
+</category>
+	
+<category>
+      <pattern>Training and Placement Cell</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details regarding T and P Cell : http://mctrgit.ac.in/TrainingPlacement.php</li>
+			<li>Please goto this link to view the details regarding T and P Cell : http://mctrgit.ac.in/TrainingPlacement.php</li>
+			<li>Have a look over here to view the details regarding T and P Cell: http://mctrgit.ac.in/TrainingPlacement.php</li>
+		</random>
+	  </template>
+</category>
+
+<category>
+      <pattern>T and P Cell</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details regarding T and P Cell: http://mctrgit.ac.in/TrainingPlacement.php</li>
+			<li>Please goto this link to view the details regarding T and P Cell :http://mctrgit.ac.in/TrainingPlacement.php</li>
+			<li>Have a look over here to view the details regarding T and P Cell : http://mctrgit.ac.in/TrainingPlacement.php</li>
+		</random>
+	  </template>
+</category>
+</aiml>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+<category>
+      <pattern>HI</pattern>
+      <template>
+	<random>
+		<li>Hello there!</li>
+		<li>Hey</li>
+	</random>
+	  </template>
+    </category>
+
+<category>
+      <pattern>HELLO</pattern>
+      <template>
+		<srai>HI</srai>
+	  </template>
+    </category>
+
+<category>
+      <pattern>WHAT IS YOUR NAME</pattern>
+      <template>
+		You suggest something!
+	  </template>
+    </category>
+
+<category>
+      <pattern>WHAT IS YOUR NAME?</pattern>
+      <template>
+		You suggest something!
+	  </template>
+    </category>
+
+<category>
+      <pattern>LET YOUR NAME BE *</pattern>
+      <template>
+		Okay, <set name = "username"> <star/></set> is a good name!
+	  </template>
+    </category>
+
+<category>
+      <pattern>HOW ABOUT *</pattern>
+      <template>
+		Okay, <set name = "botname"> <star/></set> is a good name!
+	  </template>
+    </category>
+
+<category>
+      <pattern>MY NAME IS *</pattern>
+      <template>
+		Oh! Nice to meet you<set name = "username"> <star/></set> 
+	  </template>
+    </category>
+
+<category>
+      <pattern>THANK YOU *</pattern>
+      <template>
+		Your most welcome! 
+	  </template>
+    </category>
+
+<category>
+      <pattern>THANK YOU</pattern>
+      <template>
+		Your most welcome! 
+	  </template>
+    </category>
+
+<category>
+      <pattern>BYE *</pattern>
+      <template>
+		Goodbye! 
+	  </template>
+    </category>
+
+<category>
+      <pattern>BYE</pattern>
+      <template>
+		Goodbye! 
+	  </template>
+    </category>
+
+
+
+
+
+
+</aiml>

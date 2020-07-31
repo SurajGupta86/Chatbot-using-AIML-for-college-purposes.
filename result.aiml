@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+
+
+<category>
+      <pattern>WHEN ARE THE RESULTS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the results : http://www.mctrgit.ac.in/admissions.php</li>
+			<li>Please goto this link to view the results : http://www.mctrgit.ac.in/admissions.php</li>
+			<li>Have a look over here to view the results : http://www.mctrgit.ac.in/admissions.php</li>
+		</random>
+	  </template>
+    </category>
+
+
+<category>
+      <pattern>RESULTS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the results : http://www.mctrgit.ac.in/admissions.php</li>
+			<li>Please goto this link to view the results : http://www.mctrgit.ac.in/admissions.php</li>
+			<li>Have a look over here to view the results : http://www.mctrgit.ac.in/admissions.php</li>
+		</random>
+	  </template>
+    </category>
+
+<category>
+      <pattern>GIVE ME THE RESULT DATES</pattern>
+      <template>
+		<srai>RESULTS</srai>
+	  </template>
+    </category>
+
+
+<category>
+      <pattern>WHAT IS THE FEE STRUCTURE *</pattern>
+      <template>
+		<srai>FEE STRUCTURE</srai>
+	  </template>
+    </category>
+
+<category>
+      <pattern>WHAT IS THE FEE STRUCTURE</pattern>
+      <template>
+		<srai>FEE STRUCTURE</srai>
+	  </template>
+    </category>
+
+
+<category>
+      <pattern>FEE STRUCTURE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure : http://www.mctrgit.ac.in/admissions.php</li>
+			<li>Please goto this link to view the fee structure : http://www.mctrgit.ac.in/admissions.php</li>
+			<li>Have a look over here to view the fee structure : http://www.mctrgit.ac.in/admissions.php</li>
+		</random>
+	  </template>
+    </category>
+
+<category>
+      <pattern>DO YOU HAVE ANY CONTACT</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the results : http://www.mctrgit.ac.in/contactus.php</li>
+			<li>Please goto this link to view the results : http://www.mctrgit.ac.in/contactus.php</li>
+			<li>Have a look over here to view the results : http://www.mctrgit.ac.in/contactus.php</li>
+		</random>
+	  </template>
+    </category>
+
+<category>
+      <pattern>DO YOU HAVE ANY CONTACT *</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the contact details : http://www.mctrgit.ac.in/contactus.php</li>
+			<li>Please goto this link to view the contact details : http://www.mctrgit.ac.in/contactus.php</li>
+			<li>Have a look over here to view the contact details : http://www.mctrgit.ac.in/contactus.php</li>
+		</random>
+	  </template>
+    </category>
+
+
+
+
+</aiml>
